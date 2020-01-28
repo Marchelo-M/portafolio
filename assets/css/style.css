@@ -52,7 +52,7 @@ header {
 img {
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
   height: auto;
   }
 .footer section{
@@ -88,3 +88,17 @@ h2{
   text-align: center;
   font-size: 40px;
 }
+.card{
+  background: transparent !important;;
+}
+p{
+  font-family: 'Quicksand' ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: normal;
+  text-transform: none;
+  text-decoration: none;
+  text-align: justify;
+  }
